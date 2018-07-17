@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-second text
-=======
-first text
->>>>>>> parent of 4ae24b5... t1 smenet
